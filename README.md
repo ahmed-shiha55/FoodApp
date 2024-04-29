@@ -1,6 +1,9 @@
 # foodapp
 
-A new Flutter project.
+flutter app view meals of food of different contry
+and random meals for you and you can search meals by first letter .. 
+api integration with http and cubit as statement 
+
 image From app:
 ![Screenshot_9](https://github.com/ahmed-shiha55/foodapp/assets/117787671/96d92745-44b7-4316-99cb-3b9270a5982b)
 ![Screenshot_10](https://github.com/ahmed-shiha55/foodapp/assets/117787671/4f52be7b-1d2b-4e01-bb6d-72163d12e94b)
@@ -13,15 +16,4 @@ image From app:
 
 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
