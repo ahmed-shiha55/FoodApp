@@ -1,6 +1,6 @@
 # foodapp
 
-flutter app view meals of food of different contry
+flutter app view meals of food of different country
 and random meals for you and you can search meals by first letter .. 
 api integration with http and cubit as statement 
 
